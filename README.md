@@ -1,7 +1,7 @@
 #### Hi there, I am Pritish.👋
 
 I am currently a professional Software Development Engineer working at Media.net. 
-I graduated from 🏫 **IIIT Bhubaneswar**  where I completed my Bachelor's in CSE** 💻.
+I graduated from 🏫 **IIIT Bhubaneswar**  where I completed my Bachelor's in CSE 💻.
     
 My primary fields of interest are **Data Structures, Algorithms and Web Development**.   
 Other interests include **Chess, Competitive Programming and Anime** 🤓.
